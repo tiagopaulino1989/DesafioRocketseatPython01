@@ -13,13 +13,13 @@ Instruções de Uso
 
 # Opções do Menu
 
-> Adicionar Contato (Opção 1): Permite adicionar um novo contato à lista, fornecendo nome, telefone, email e se é favorito ou não.
-> Visualizar Contatos (Opção 2): Exibe a lista de todos os contatos com suas informações.
-> Editar Contato (Opção 3): Permite editar as informações de um contato existente, selecionando-o pelo número na lista.
-> Marcar/Desmarcar Favorito (Opção 4): Permite marcar ou desmarcar um contato como favorito, selecionando-o pelo número na lista.
-> Listar Favoritos (Opção 5): Exibe a lista de contatos marcados como favoritos.
-> Apagar Contato (Opção 6): Permite apagar um contato existente, selecionando-o pelo número na lista.
-> Sair (Opção 0): Encerra a execução do aplicativo.
+- Adicionar Contato (Opção 1): Permite adicionar um novo contato à lista, fornecendo nome, telefone, email e se é favorito ou não.
+- Visualizar Contatos (Opção 2): Exibe a lista de todos os contatos com suas informações.
+- Editar Contato (Opção 3): Permite editar as informações de um contato existente, selecionando-o pelo número na lista.
+- Marcar/Desmarcar Favorito (Opção 4): Permite marcar ou desmarcar um contato como favorito, selecionando-o pelo número na lista.
+- Listar Favoritos (Opção 5): Exibe a lista de contatos marcados como favoritos.
+- Apagar Contato (Opção 6): Permite apagar um contato existente, selecionando-o pelo número na lista.
+- Sair (Opção 0): Encerra a execução do aplicativo.
 
 # Notas Adicionais:
 
