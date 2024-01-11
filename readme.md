@@ -4,7 +4,7 @@ Este é um simples aplicativo de agenda de contatos em Python, desenvolvido usan
 
 Instruções de Uso
    - Clone o repositório:
-      git clone https://github.com/seu-usuario/seu-repositorio.git
+      git clone https://github.com/tiagopaulino1989/DesafioRocketseatPython01
       cd seu-repositorio
    
    - Execute o aplicativo:
