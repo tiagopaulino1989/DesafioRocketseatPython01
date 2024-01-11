@@ -26,3 +26,4 @@ class Agenda:
 
     def apagar_contato(self, indice):
         del self.contatos[indice]
+        

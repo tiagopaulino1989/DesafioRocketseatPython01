@@ -4,3 +4,4 @@ class Contato:
         self.telefone = telefone
         self.email = email
         self.favorito = favorito
+        

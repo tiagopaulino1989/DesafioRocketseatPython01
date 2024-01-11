@@ -25,3 +25,4 @@ Instruções de Uso
 
 - Ao executar python app.py, siga as instruções apresentadas no console para interagir com o aplicativo.
 - Certifique-se de ter o Python instalado em seu sistema.
+
